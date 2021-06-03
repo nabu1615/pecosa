@@ -1,0 +1,2 @@
+# pecosa
+Strapi + Vue
